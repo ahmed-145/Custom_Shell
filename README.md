@@ -1,7 +1,7 @@
 # Custom Shell - Lightweight Command Line Shell
 A simple custom shell implementation in C++ that supports built-in commands, aliasing, command history, background execution, and external commands using execvp.
 
---Features
+Features
 
 Supports external commands (execvp)
 
